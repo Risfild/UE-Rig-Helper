@@ -12,12 +12,9 @@ README.txt — installation and usage instructions.
 
 ## Install
 
-1. If UE4 Control Rig Export / UE4 Control Rig Tools is installed, disable it first.
-   The renamed add-on uses the same internal operators and saved scene settings.
-   Do not enable both versions at the same time.
-2. In Blender, open Edit > Preferences > Add-ons > Install from Disk.
-3. Select ue_rig_helper.py and enable UE Rig Helper.
-4. In the 3D Viewport, press N and open the UE Rig Helper tab.
+1. In Blender, open Edit > Preferences > Add-ons > Install from Disk.
+2. Select ue_rig_helper.py and enable UE Rig Helper.
+3. In the 3D Viewport, press N and open the UE Rig Helper tab.
 
 ## Create controls
 
